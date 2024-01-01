@@ -1,4 +1,4 @@
-body[data-color-scheme="auto"], body[data-color-scheme="light"] {
+body[data-color-scheme="light"] {
     --white-opacity-8: rgba(255, 255, 255, .8);
     --white-1-opacity-8: rgba(229.5, 229.5, 229.5, .8);
     --white: #fff;
@@ -34,7 +34,7 @@ body[data-color-scheme="auto"], body[data-color-scheme="light"] {
 }
 
 
-body[data-color-scheme="dark"] {
+body[data-color-scheme="auto"], body[data-color-scheme="dark"] {
     --white-opacity-8: rgba(0, 0, 0, .8);
     --white-1-opacity-8: rgba(25.5, 25.5, 25.5, .8);
     --white: #000;
