@@ -34,7 +34,7 @@ body[data-color-scheme="auto"], body[data-color-scheme="light"] {
 }
 
 @media (prefers-color-scheme: dark) {
-    body[data-color-scheme="auto"] {
+    body[data-color-scheme="dark"] {
         --white-opacity-8: rgba(0, 0, 0, .8);
         --white-1-opacity-8: rgba(25.5, 25.5, 25.5, .8);
         --white: #000;
